@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Natural Keepers</string>
+
+    <string name="best_time">Лучшее время</string>
+    <string name="na">Неизвестный</string>
+    <string name="last_name_placeholder">В</string>
+
+    <string name="play_game">Играть в игру</string>
+    <string name="settings_description">Настройки</string>
+    <string name="exit_button">Выход</string>
+    <string name="play_again_button">Играть снова?</string>
+    <string name="score">Счет</string>
+    <string name="time">Время</string>
+
+    <string name="check_mark">Галочка</string>
+
+    <string name="finished_message">Пройдена игра за %1$s секунд!</string>
+    <string name="number_of_words">Число слов</string>
+</resources>
